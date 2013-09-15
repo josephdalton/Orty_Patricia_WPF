@@ -53,10 +53,32 @@ var groceryTotal = groceryBill[0] + groceryBill[1] + groceryBill[2] + groceryBil
 
 // finding average of groceryBill by dividing groceryTotal by 5
 
-var groceryAverage = groceryTotal / 5
+var groceryAverage = groceryTotal / 5;
 
 //printing out the output of both groceryTotal and groceryAverage
 
-console.log("You have spent a total of $" + groceryTotal + " on groceries over 5 weeks. That is an average of $" + groceryAverage + " per week.")
+console.log("You have spent a total of $" + groceryTotal + " on groceries over 5 weeks. That is an average of $" + groceryAverage + " per week.");
 
+//Discounts
+// showing price with discount with and without salestax
 
+var originalPrice = 100;
+var discountPercentage = 10;
+var salesTaxPercentage = 8;
+var itemDescription = "DVD Player";
+
+// dividing originalPrice by discountPercentage to show discount amount
+
+var discountTotal = originalPrice - originalPrice / discountPercentage;
+
+// dividing discountTotal by salesTaxPercentage to show sales tax that would be charged
+
+var itemSalesTax = discountTotal / salesTaxPercentage;
+
+// adding itemSalesTax to discountTotal to show discount price with tax
+
+var itemDiscountAndTaxTotal = discountTotal + itemSalesTax;
+
+// printing out the output of itemDescription, discountTotal and itemDiscountAndTaxTotal
+
+console.log("Your " + itemDescription + " was originally $" + originalPrice + ", but after a " + discountPercentage + "% discount, it is now $" + discountTotal + " without tax, and $" + itemDiscountAndTaxTotal + " with tax.");
