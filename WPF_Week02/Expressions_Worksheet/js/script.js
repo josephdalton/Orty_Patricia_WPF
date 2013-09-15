@@ -22,8 +22,8 @@ console.log("Sparky is " + ageOfSparky + " human years old which is " + dogYears
 // creating an expression to calculate how many slices of pizza party goers will have from X number of pizzas ordered.
 
 var slicesPer = 8;
-var partyGoers = 8;
-var pizzasOrdered = 1;
+var partyGoers = 10;
+var pizzasOrdered = 4;
 
 //multiply Pizzas ordered by the number of slices in a pizza then divide by PartyGoers.
 
@@ -31,4 +31,13 @@ var slicesToGoers = pizzasOrdered * slicesPer / partyGoers;
 
 //printing out the output of slicesToGoers
 
-console.log("Each person ate " + slicesToGoers + " slices of pizza at the party.")
+console.log("Each person ate " + slicesToGoers + " slices of pizza at the party.");
+
+//Slice of Pie : Part II
+//  create calcuation of how many slices of Pizza Sparky will get after guests get WHOLE SlICES.
+
+var slicesSparky = pizzasOrdered * slicesPer % partyGoers;
+
+//printing out the output of slicesSparky
+
+console.log("Sparky got " + slicesSparky + " slices of pizza");
