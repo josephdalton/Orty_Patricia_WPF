@@ -41,3 +41,22 @@ var slicesSparky = pizzasOrdered * slicesPer % partyGoers;
 //printing out the output of slicesSparky
 
 console.log("Sparky got " + slicesSparky + " slices of pizza");
+
+//Average Shopping Bill
+// creating an expression to calculate the average grocery expense over five weeks.
+
+var groceryBill = [50, 20, 60, 30, 28];
+
+// adding up the total for the five weeks of grocery Shopping
+
+var groceryTotal = groceryBill[0] + groceryBill[1] + groceryBill[2] + groceryBill[3] + groceryBill[4];
+
+// finding average of groceryBill by dividing groceryTotal by 5
+
+var groceryAverage = groceryTotal / 5
+
+//printing out the output of both groceryTotal and groceryAverage
+
+console.log("You have spent a total of $" + groceryTotal + " on groceries over 5 weeks. That is an average of $" + groceryAverage + " per week.")
+
+
