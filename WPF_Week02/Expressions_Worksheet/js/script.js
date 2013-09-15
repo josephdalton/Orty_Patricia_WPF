@@ -1,26 +1,18 @@
-// Casting
+//Patricia Orty
+//Student ID 0004002218
+// 9/15/13
 
-var stringVar = "6";
+// Expressions Worksheet
 
-var result = 7 + stringVar;
 
-//because stringVar information is string (text) then
-//the addition sign performs a concatination instead of a mathmatical addtion.
+//Dog Years
+// to calculate Sparky's age in dog Years
 
-console.log(result);
+var ageOfSparky = 5;
 
-var result2 = 7 + Number(stringVar);
+//add 7 to Age of Sparky to get Dog Years and store in variable dogYears
+var dogYears = ageOfSparky + 7;
 
-console.log(result2);
+//printing out Sparky's human age and then his Dog Age
 
-// Number() causes the string to be treaded for a moment like a Number
-// 
-
-var areaCode = 407;
-var firstPart = 203;
-var secPart = 4529;
-//(407) 203-4529
-
-var phoneNo = "(" + String(areaCode) + ")" + String(firstPart) + "-" + String(secPart)
-
-console.log(phoneNo)
+console.log("Sparky is " + ageOfSparky + " human years old which is " + dogYears + " in dog years.")
