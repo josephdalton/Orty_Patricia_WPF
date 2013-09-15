@@ -15,4 +15,7 @@ var dogYears = ageOfSparky + 7;
 
 //printing out Sparky's human age and then his Dog Age
 
-console.log("Sparky is " + ageOfSparky + " human years old which is " + dogYears + " in dog years.")
+console.log("Sparky is " + ageOfSparky + " human years old which is " + dogYears + " in dog years.");
+
+
+//Slice of Pie : Part 1
