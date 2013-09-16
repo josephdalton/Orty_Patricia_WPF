@@ -23,3 +23,4 @@ fundraiserEventName = prompt("Please type in event/fundraiser name.");
 
 sponsorshipOrBoothCost = prompt("Please type in sponsorship fee or event booth cost.");
 
+costOfEventGivaways = prompt("Please provide total cost of giveaways for event/fundraiser.");
