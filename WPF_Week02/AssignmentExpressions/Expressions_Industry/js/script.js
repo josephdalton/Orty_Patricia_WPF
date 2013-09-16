@@ -7,3 +7,4 @@
 //Purpose of this Expression is to add up the expenses of an Event/Fundraiser 
 //and calculate what percent of the yearly budget the Event/Fundraiser uses.
 
+//declaring variables for calculation of total event cost.
