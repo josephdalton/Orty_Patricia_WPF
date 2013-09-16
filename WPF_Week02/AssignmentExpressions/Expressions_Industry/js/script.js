@@ -11,6 +11,7 @@
 var sponsorshipOrBoothCost;
 var costOfEventGivaways;
 var foodExpenses;
+var fundraiserEventName;
 
 //placing variables in an Array to house event costs.
 
