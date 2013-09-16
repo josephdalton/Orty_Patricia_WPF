@@ -15,3 +15,5 @@ var foodExpenses;
 //placing variables in an Array to house event costs.
 
 var eventExpenses = [sponsorshipOrBoothCost, costOfEventGivaways, foodExpenses];
+
+//creating prompts to gather information for event cost variables.
