@@ -18,3 +18,6 @@ var fundraiserEventName;
 var eventExpenses = [sponsorshipOrBoothCost, costOfEventGivaways, foodExpenses];
 
 //creating prompts to gather information for event cost variables.
+
+fundraiserEventName = prompt("Please type in event/fundraiser name.");
+
