@@ -3,3 +3,7 @@
 // 9/15/13
 
 // Assignment : Expressions - Industry
+
+//Purpose of this Expression is to add up the expenses of an Event/Fundraiser 
+//and calculate what percent of the yearly budget the Event/Fundraiser uses.
+
