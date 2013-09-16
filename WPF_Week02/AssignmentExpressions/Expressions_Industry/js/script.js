@@ -8,3 +8,4 @@
 //and calculate what percent of the yearly budget the Event/Fundraiser uses.
 
 //declaring variables for calculation of total event cost.
+var sponsorshipOrBoothCost;
