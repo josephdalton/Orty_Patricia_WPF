@@ -9,3 +9,4 @@
 
 //declaring variables for calculation of total event cost.
 var sponsorshipOrBoothCost;
+var costOfEventGivaways;
