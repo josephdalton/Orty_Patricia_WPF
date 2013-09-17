@@ -51,5 +51,5 @@ var eventPercentageOfBudget;
 
 eventPercentageOfBudget = eventCostTotal / parseFloat(yearlyBudget) * 100;
 
-
+console.log(eventPercentageOfBudget);
 
