@@ -31,3 +31,5 @@ costOfEventGivaways = prompt("Please provide total cost of giveaways for event/f
 
 foodExpenses = prompt("Please provide total cost of event/fundraiser food expenses.");
 
+//creating of eventCostTotal variable and defining it to add the eventExpenses Array variables.
+
