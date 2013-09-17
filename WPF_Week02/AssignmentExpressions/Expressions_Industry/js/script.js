@@ -51,5 +51,5 @@ var eventPercentageOfBudget;
 
 eventPercentageOfBudget = eventCostTotal / parseFloat(yearlyBudget) * 100;
 
-console.log(eventPercentageOfBudget);
+console.log("The percentage of your yearly department budget utilized by event/fundraiser: " + fundraiserEventName + " is " + eventPercentageOfBudget + "%.");
 
