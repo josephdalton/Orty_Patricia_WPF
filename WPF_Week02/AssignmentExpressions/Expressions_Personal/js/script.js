@@ -20,5 +20,5 @@ alert("HELLO\nFollowing will be some questions asked to determine\nhow much dog 
 nameOfDogFood = prompt("What brand is your Dog Food?");
 dogFoodWeight = prompt("How many .lbs is the bag of " + nameOfDogFood + " dog food you purchase?");
 dogFoodCost = prompt("And how much does " + nameOfDogFood + " dog food cost?");
-
+dogFoodMonthAmount = prompt("How many bags of dog food do you purchase a month?");
 
