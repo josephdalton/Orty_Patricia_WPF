@@ -43,3 +43,7 @@ var yearlyBudget;
 
 yearlyBudget = prompt("Please provide total of your yearly department budget.");
 
+//declaration of eventPercentageOfBudget variable.
+
+var eventPercentageOfBudget;
+
