@@ -32,5 +32,5 @@ var foodCostPerYear = parseFloat(dogFoodStats[1]) * parseFloat(dogFoodStats[2]) 
 //Calculation to figure out dog food cost per year per dog by taking foodCostPerYear divided by howManyDogs.
 var costPerDogPerYear = foodCostPerYear / parseFloat(howManyDogs);
 
-
+console.log(costPerDogPerYear);
 
