@@ -10,3 +10,4 @@
 var dogFoodCost;
 var dogFoodWeight;
 var dogFoodMonthAmount;
+var howManyDogs;
