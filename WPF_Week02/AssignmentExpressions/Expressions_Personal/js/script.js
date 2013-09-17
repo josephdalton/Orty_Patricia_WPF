@@ -35,5 +35,5 @@ var costPerDogPerYear = parseFloat(foodCostPerYear) / parseFloat(howManyDogs);
 //Calculation to determine total amount of lbs. of dog food purchased in a year by multiplying dogFoodWeight by dogFoodMonthAmount by 12.
 var foodWeightPerYear = parseFloat(dogFoodStats[0]) * parseFloat(dogFoodStats[2]) * 12;
 
-console.log(foodWeightPerYear);
+
 
