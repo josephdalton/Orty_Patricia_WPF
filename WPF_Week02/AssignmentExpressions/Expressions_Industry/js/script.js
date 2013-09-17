@@ -13,10 +13,6 @@ var costOfEventGivaways;
 var foodExpenses;
 var fundraiserEventName;
 
-//placing variables in an Array to house event costs.
-
-var eventExpenses = [sponsorshipOrBoothCost, costOfEventGivaways, foodExpenses];
-
 //creating alert to explain prompts.
 
 alert("Answering the next few questions involving \nyour current event/fundraiser costs and yearly budget\nwill allow us to calculate the percentage of your \nyearly budget that was utilzed for your event/fundraiser.\n\n\tHope you find this useful.\n\tThank you.");
@@ -31,9 +27,13 @@ costOfEventGivaways = prompt("Please provide total cost of giveaways for event/f
 
 foodExpenses = prompt("Please provide total cost of event/fundraiser food expenses.");
 
+//placing variables in an Array to house event costs.
+
+var eventExpenses = [sponsorshipOrBoothCost, costOfEventGivaways, foodExpenses];
+
 //creating of eventCostTotal variable and defining it to add the eventExpenses Array variables.
 
-var eventCostTotal = eventExpenses[0] + eventExpenses[1] + eventExpenses[2];
+var eventCostTotal = parseFloat(eventExpenses[0]) + parseFloat(eventExpenses[1]) + parseFloat(eventExpenses[2]);
 
 console.log(eventCostTotal);
 
