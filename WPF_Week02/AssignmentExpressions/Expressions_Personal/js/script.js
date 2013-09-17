@@ -9,3 +9,4 @@
 //Declaration of variables
 var dogFoodCost;
 var dogFoodWeight;
+var dogFoodMonthAmount;
