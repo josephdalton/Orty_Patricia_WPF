@@ -33,3 +33,5 @@ foodExpenses = prompt("Please provide total cost of event/fundraiser food expens
 
 //creating of eventCostTotal variable and defining it to add the eventExpenses Array variables.
 
+var eventCostTotal = eventExpenses[0] + eventExpenses[1] + eventExpenses[2];
+
