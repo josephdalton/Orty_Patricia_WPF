@@ -12,3 +12,6 @@ var dogFoodWeight;
 var dogFoodMonthAmount;
 var howManyDogs;
 var nameOfDogFood;
+
+//Alert to explain what information prompts are for.
+alert("HELLO\nFollowing will be some questions asked to determine\nhow much dog food you purchase in a year\nand how many lbs. your dog(s) consumes in a year.");
