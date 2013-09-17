@@ -17,5 +17,6 @@ var nameOfDogFood;
 alert("HELLO\nFollowing will be some questions asked to determine\nhow much dog food you purchase in a year\nand how many lbs. your dog(s) consumes in a year.");
 
 //Defining variables with prompts to gather information for future calculations and console.log readouts.
+nameOfDogFood = prompt("What brand is your Dog Food?");
 
 
