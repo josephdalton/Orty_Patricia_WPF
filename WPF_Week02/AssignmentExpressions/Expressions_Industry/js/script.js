@@ -35,5 +35,5 @@ var eventExpenses = [sponsorshipOrBoothCost, costOfEventGivaways, foodExpenses];
 
 var eventCostTotal = parseFloat(eventExpenses[0]) + parseFloat(eventExpenses[1]) + parseFloat(eventExpenses[2]);
 
-console.log(eventCostTotal);
+
 
