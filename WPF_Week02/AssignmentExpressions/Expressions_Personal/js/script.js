@@ -19,6 +19,7 @@ alert("HELLO\nFollowing will be some questions asked to determine\nhow much dog 
 //Defining variables with prompts to gather information for future calculations and console.log readouts.
 nameOfDogFood = prompt("What brand is your Dog Food?");
 dogFoodWeight = prompt("How many .lbs is the bag of " + nameOfDogFood + " dog food you purchase?");
-dogFoodCost = prompt("And how much does " + nameOfDogFood + " dog food cost?");
+dogFoodCost = prompt("And how much does a " + dogFoodWeight + "lb. bag of" + nameOfDogFood + " dog food cost?");
 dogFoodMonthAmount = prompt("How many bags of dog food do you purchase a month?");
+howManyDogs = prompt("How many dogs do you have that eat the " + nameOfDogFood + " dog food?");
 
