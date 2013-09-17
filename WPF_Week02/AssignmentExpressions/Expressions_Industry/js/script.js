@@ -17,6 +17,10 @@ var fundraiserEventName;
 
 var eventExpenses = [sponsorshipOrBoothCost, costOfEventGivaways, foodExpenses];
 
+//creating alert to explain prompts.
+
+alert("Answering the next few questions involving \nyour current event/fundraiser costs and yearly budget\nwill allow us to calculate the percentage of your \nyearly budget that was utilzed for your event/fundraiser.\n\n\tHope you find this useful.\n\tThank you.")
+
 //creating prompts to gather information for event cost variables.
 
 fundraiserEventName = prompt("Please type in event/fundraiser name.");
@@ -24,3 +28,4 @@ fundraiserEventName = prompt("Please type in event/fundraiser name.");
 sponsorshipOrBoothCost = prompt("Please type in sponsorship fee or event booth cost.");
 
 costOfEventGivaways = prompt("Please provide total cost of giveaways for event/fundraiser.");
+
