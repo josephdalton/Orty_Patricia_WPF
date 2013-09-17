@@ -39,4 +39,7 @@ var eventCostTotal = parseFloat(eventExpenses[0]) + parseFloat(eventExpenses[1])
 
 var yearlyBudget;
 
+//defition of yearlyBudget variable as prompt.
+
+yearlyBudget = prompt("Please provide total of your yearly department budget.");
 
