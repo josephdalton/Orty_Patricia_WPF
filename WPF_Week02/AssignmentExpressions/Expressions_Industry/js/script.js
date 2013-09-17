@@ -35,3 +35,5 @@ foodExpenses = prompt("Please provide total cost of event/fundraiser food expens
 
 var eventCostTotal = eventExpenses[0] + eventExpenses[1] + eventExpenses[2];
 
+console.log(eventCostTotal);
+
