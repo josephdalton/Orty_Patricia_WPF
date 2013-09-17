@@ -47,3 +47,9 @@ yearlyBudget = prompt("Please provide total of your yearly department budget.");
 
 var eventPercentageOfBudget;
 
+//defition of eventPercentageOfBudget variable as calculation taking eventCostTotal and dividing it by yearlyBudget then multiplying by 100 to result in percentage of yearly budget utilitzed for the event.
+
+eventPercentageOfBudget = eventCostTotal / parseFloat(yearlyBudget) * 100;
+
+
+
