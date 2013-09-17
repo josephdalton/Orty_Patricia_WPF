@@ -37,3 +37,5 @@ var foodWeightPerYear = parseFloat(dogFoodStats[0]) * parseFloat(dogFoodStats[2]
 
 //Calculation to determine total lbs. of dog food consumed by each dog per year by dividing foodWeightPerYear by howManyDogs.
 var weightPerDogPerYear = parseFloat(foodWeightPerYear) / parseFloat(howManyDogs);
+
+console.log(weightPerDogPerYear);
