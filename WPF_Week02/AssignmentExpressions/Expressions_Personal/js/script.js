@@ -26,5 +26,7 @@ howManyDogs = prompt("How many dogs do you have that eat the " + nameOfDogFood +
 //Array created to contain dog food numerical stats
 var dogFoodStats = [dogFoodWeight, dogFoodCost, dogFoodMonthAmount];
 
+//Calculation to figure out dog food cost per year by taking dogFoodCost times dogFoodMonthAmount times 12 months.
+var foodCostPerYear = parseFloat(dogFoodStats[1]) * parseFloat(dogFoodStats[2]) * 12;
 
 
