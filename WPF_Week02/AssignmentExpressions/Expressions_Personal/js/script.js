@@ -23,3 +23,8 @@ dogFoodCost = prompt("And how much does a " + dogFoodWeight + "lb. bag of" + nam
 dogFoodMonthAmount = prompt("How many bags of dog food do you purchase a month?");
 howManyDogs = prompt("How many dogs do you have that eat the " + nameOfDogFood + " dog food?");
 
+//Array created to contain dog food numerical stats
+var dogFoodStats = [dogFoodWeight, dogFoodCost, dogFoodMonthAmount];
+
+
+
