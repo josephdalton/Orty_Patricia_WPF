@@ -46,3 +46,5 @@ var wooleyWashes = parseFloat(laundrySudz[2]) * parseFloat(laundrySudz[3]) - 2;
 //Setting up Calculation-3 to combine 1 & 2 by dividing stripedToes by wooleyWashes times 25.
 
 var gnomeTariff = stripedToes / wooleyWashes * 25;
+
+console.log(gnomeTariff);
