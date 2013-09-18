@@ -47,4 +47,7 @@ var wooleyWashes = parseFloat(laundrySudz[2]) * parseFloat(laundrySudz[3]) - 2;
 
 var gnomeTariff = stripedToes / wooleyWashes * 25;
 
-console.log(gnomeTariff);
+
+//adding parseInt to gnomeTariff in console.log final output so that only a whole number is shown.
+
+console.log("Now for the love of stripey toes & fear of wooley washes, we gnomes shall spare your little piggy's socky blankets \nfor a total of " + parseInt(gnomeTariff) + " pairs of fashionably NEW socks a year. Take it... Or ... we will (teehee).\nSincerely,\nTiny Nale-Hangz Jr. the Gnome");
