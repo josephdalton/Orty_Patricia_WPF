@@ -24,3 +24,5 @@ alert("Answer the next few questions and we shall calculate \nyour NECESSARY YEA
 //Prompts being created to gather information for the expression calculations later.
 
 howManyStripedStocks = prompt("Let's start our calculation for a fuzzy tariff, \nto our stubby sock fashionista Gnomes, with...\n\t...HOW MANY striped socks to you own?");
+
+howManyToes = prompt("5, 10 or 2! How many toes do you cover with socks a day?");
