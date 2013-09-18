@@ -27,4 +27,6 @@ howManyStripedStocks = prompt("Let's start our calculation for a fuzzy tariff, \
 
 howManyToes = prompt("5, 10 or 2! How many toes do you cover with socks a day?");
 
-howManyWool = prompt("Do you act like a wolf and don WOOLEY SOCKS...\nIf YES, HOW MANY Wool sock pairs do you have?");
+howManyWool = prompt("Do you act like a wolf and don WOOLEY SOCKS...\nIf YES, HOW MANY Wool sock pairs do you own?");
+
+howManyWashesMo = prompt("How many times a month do you drown....err...WASH your socks?");
