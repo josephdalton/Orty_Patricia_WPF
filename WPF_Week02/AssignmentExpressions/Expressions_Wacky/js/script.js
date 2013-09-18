@@ -16,3 +16,5 @@ var howManyWool;
 var howManyWashesMo;
 
 //Placing in a series of  3 alerts to explain the prompts for information to follow.
+
+alert("Do you end up SEARCHING after you do laundry for your FAVORITE SOCK?\nDO YOU WISH you had a CHOICE over what the laundry Gnomes would take?");
