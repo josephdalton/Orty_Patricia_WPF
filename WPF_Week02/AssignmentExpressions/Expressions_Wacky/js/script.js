@@ -19,3 +19,4 @@ var howManyWashesMo;
 
 alert("Do you end up SEARCHING after you do laundry for your FAVORITE SOCK?\nDO YOU WISH you had a CHOICE over what the laundry Gnomes would take?");
 alert("Well you're in LUCK MY FRIEND!\nTODAY IS YOUR LUCKY DAY!!");
+alert("Answer the next few questions and we shall calculate \nyour NECESSARY YEARLY SOCK PAYMENT!!!\nIMAGINE being able to launder your clothing with the \npeace of mind that you WILL NOT LOSE 1 sock for 1 year! \nIMAGINE the possibilities.\n\n\t\tBest Jammy Regards,\n\t\tToesy Rosey-Jam the Gnome");
