@@ -42,3 +42,5 @@ var stripedToes = parseFloat(laundrySudz[0]) * parseFloat(laundrySudz[1]) + 1;
 //Setting up Calculation-2 which times howManyWool by howManyWashesMo and minuses 2.
 
 var wooleyWashes = parseFloat(laundrySudz[2]) * parseFloat(laundrySudz[3]) - 2;
+
+console.log(wooleyWashes);
