@@ -10,7 +10,7 @@
 //in order to have no socks missing after the drying of their clothes for one year. Enjoy!
 
 //Declaring the variables for later use in this expression.
-var howManyStipedSocks;
+var howManyStripedSocks;
 var howManyToes;
 var howManyWool;
 var howManyWashesMo;
@@ -23,10 +23,14 @@ alert("Answer the next few questions and we shall calculate \nyour NECESSARY YEA
 
 //Prompts being created to gather information for the expression calculations later.
 
-howManyStripedStocks = prompt("Let's start our calculation for a fuzzy tariff, \nto our stubby sock fashionista Gnomes, with...\n\t...HOW MANY striped socks to you own?");
+howManyStripedSocks = prompt("Let's start our calculation for a fuzzy tariff, \nto our stubby sock fashionista Gnomes, with...\n\t...HOW MANY striped socks to you own?");
 
 howManyToes = prompt("5, 10 or 2! How many toes do you cover with socks a day?");
 
 howManyWool = prompt("Do you act like a wolf and don WOOLEY SOCKS...\nIf YES, HOW MANY Wool sock pairs do you own?");
 
 howManyWashesMo = prompt("How many times a month do you drown....err...WASH your socks?");
+
+//Gathering all the now defined variables in an array for save keeping.
+
+var laundrySudz = [howManyStripedSocks,
