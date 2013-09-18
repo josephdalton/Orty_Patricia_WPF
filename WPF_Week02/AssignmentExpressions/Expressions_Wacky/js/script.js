@@ -43,4 +43,4 @@ var stripedToes = parseFloat(laundrySudz[0]) * parseFloat(laundrySudz[1]) + 1;
 
 var wooleyWashes = parseFloat(laundrySudz[2]) * parseFloat(laundrySudz[3]) - 2;
 
-console.log(wooleyWashes);
+
