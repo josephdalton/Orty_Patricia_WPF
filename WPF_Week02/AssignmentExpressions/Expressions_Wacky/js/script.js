@@ -13,3 +13,4 @@
 var howManyStipedSocks;
 var howManyToes;
 var howManyWool;
+var howManyWashesMo;
