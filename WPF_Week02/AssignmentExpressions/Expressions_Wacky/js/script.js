@@ -23,7 +23,7 @@ alert("Answer the next few questions and we shall calculate \nyour NECESSARY YEA
 
 //Prompts being created to gather information for the expression calculations later.
 
-howManyStripedSocks = prompt("Let's start our calculation for a fuzzy tariff, \nto our stubby sock fashionista Gnomes, with...\n\t...HOW MANY striped socks to you own?");
+howManyStripedSocks = prompt("Let's start our calculation for a fuzzy tariff,\nto our stubby sock fashionista Gnomes, with...\n\t...HOW MANY striped socks to you own?");
 
 howManyToes = prompt("5, 10 or 2! How many toes do you cover with socks a day?");
 
@@ -37,6 +37,6 @@ var laundrySudz = [howManyStripedSocks, howManyToes, howManyWool, howManyWashesM
 
 //Setting up Calculation-1 which will times howManyStripedSocks by howManyToes and add 1 to the total. I'm using parseFloat because I don't want numbers ignored after decimal points yet.
 
-var stripedToes = parseFloat(laundrySudz[0]) * parseFloat(laundrySudz[1])++;
+var stripedToes = parseFloat(laundrySudz[0]) * parseFloat(laundrySudz[1]) + 1;
 
 console.log(stripedToes);
