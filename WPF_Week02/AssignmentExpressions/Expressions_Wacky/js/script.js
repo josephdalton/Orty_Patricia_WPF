@@ -11,3 +11,4 @@
 
 //Declaring the variables for later use in this expression.
 var howManyStipedSocks;
+var howManyToes;
