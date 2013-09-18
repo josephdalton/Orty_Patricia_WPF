@@ -33,4 +33,5 @@ howManyWashesMo = prompt("How many times a month do you drown....err...WASH your
 
 //Gathering all the now defined variables in an array for save keeping.
 
-var laundrySudz = [howManyStripedSocks,
+var laundrySudz = [howManyStripedSocks, howManyToes, howManyWool, howManyWashesMo];
+
