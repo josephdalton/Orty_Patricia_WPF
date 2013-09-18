@@ -14,3 +14,5 @@ var howManyStipedSocks;
 var howManyToes;
 var howManyWool;
 var howManyWashesMo;
+
+//Placing in a series of  3 alerts to explain the prompts for information to follow.
