@@ -39,4 +39,4 @@ var laundrySudz = [howManyStripedSocks, howManyToes, howManyWool, howManyWashesM
 
 var stripedToes = parseFloat(laundrySudz[0]) * parseFloat(laundrySudz[1]) + 1;
 
-console.log(stripedToes);
+
