@@ -21,4 +21,6 @@ alert("Do you end up SEARCHING after you do laundry for your FAVORITE SOCK?\nDO 
 alert("Well you're in LUCK MY FRIEND!\nTODAY IS YOUR LUCKY DAY!!");
 alert("Answer the next few questions and we shall calculate \nyour NECESSARY YEARLY SOCK PAYMENT!!!\nIMAGINE being able to launder your clothing with the \npeace of mind that you WILL NOT LOSE 1 sock for 1 year! \nIMAGINE the possibilities.\n\n\t\tBest Jammy Regards,\n\t\tToesy Rosey-Jam the Gnome");
 
-//Prompts being created to gather information for the expression calculation later.
+//Prompts being created to gather information for the expression calculations later.
+
+howManyStripedStocks = prompt("Let's start our calculation for a fuzzy tariff, \nto our stubby sock fashionista Gnomes, with...\n\t...HOW MANY striped socks to you own?");
