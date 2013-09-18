@@ -38,3 +38,5 @@ var laundrySudz = [howManyStripedSocks, howManyToes, howManyWool, howManyWashesM
 //Setting up Calculation-1 which will times howManyStripedSocks by howManyToes and add 1 to the total. I'm using parseFloat because I don't want numbers ignored after decimal points yet.
 
 var stripedToes = parseFloat(laundrySudz[0]) * parseFloat(laundrySudz[1])++;
+
+console.log(stripedToes);
