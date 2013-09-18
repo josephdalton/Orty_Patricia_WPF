@@ -10,3 +10,4 @@
 //in order to have no socks missing after the drying of their clothes for one year. Enjoy!
 
 //Declaring the variables for later use in this expression.
+var howManyStipedSocks;
