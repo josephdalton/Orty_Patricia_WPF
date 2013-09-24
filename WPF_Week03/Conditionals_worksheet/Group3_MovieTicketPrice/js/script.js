@@ -20,3 +20,7 @@ var discountPrice;
 ticketPrice = "$12.00";
 discountPrice = "$7.00";
 
+//Definition of remaining variables as prompts to gain user input.
+
+
+
