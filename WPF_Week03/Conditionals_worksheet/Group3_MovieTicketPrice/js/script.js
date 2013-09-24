@@ -22,5 +22,6 @@ discountPrice = "$7.00";
 
 //Definition of remaining variables as prompts to gain user input.
 
+movieGoerAge = prompt("To determine your ticket price,\nplease enter your age.", 55);
 
 
