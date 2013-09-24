@@ -34,6 +34,11 @@ var fullTankMiles = carMPG * gasTankCapacity;
 
 var currentTankMiles = fullTankMiles - (100 - gasGadgePercentage) / 100 * fullTankMiles;
 
+//Calculation to determine how many gallons of gas in tank currently.
+//by dividing currentTankMiles by carMPG
+
+var currentGallons = currentTankMiles / carMPG;
+
 //providing if statement for result console.log printout.
 // if currentTankMiles is greater than or equal to nextStation then print yes, you can make it without stopping for gas! 
 // else "You only have X gallons of gas in your tank, better get gas now while you can!"
