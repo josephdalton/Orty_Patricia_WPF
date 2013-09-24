@@ -29,3 +29,7 @@ gasGadgePercentage = prompt("What does your gas gadge read? What is it's percent
 
 var fullTankMiles = carMPG * gasTankCapacity;
 
+//Calculation to determine how many miles can be traveled with current amount of gas.
+// by minusing fullTankMiles from fullTankMiles that have been multipled by (gasTankGadgePercentage divided by 100)
+
+var currentTankMiles = fullTankMiles - (gasTankGadgePercentage / 100) * fullTankMiles;
