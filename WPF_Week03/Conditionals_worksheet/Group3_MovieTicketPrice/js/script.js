@@ -18,5 +18,5 @@ var discountPrice;
 //Definition of ticket price variables.
 
 var ticketPrice = "$12.00";
-bar discountPrice = "$7.00";
+var discountPrice = "$7.00";
 
