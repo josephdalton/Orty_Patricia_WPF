@@ -27,7 +27,10 @@ timeOfMovie = prompt("Please enter the time of your movie.\n(Just enter in the h
 amPM = prompt("Is that AM or PM?","PM");
 
 //Initial if statement to produce a console.log of "The ticket price is $7.00" if age of movie goer is 55 or over or under 10
+//addition of else statement to produce console.log of "The ticket price is $12.00"
 
 if((movieGoerAge >= 55) || (movieGoerAge < 10)){
 	console.log("The ticket price is " + discountPrice);
+}else{
+	console.log("The ticket price is " + ticketPrice);
 }
