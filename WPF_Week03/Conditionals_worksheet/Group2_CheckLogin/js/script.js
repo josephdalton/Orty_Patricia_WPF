@@ -18,3 +18,4 @@ var correctPassword;
 //Definition of variables as prompts to gain information for if else statement.
 
 username = prompt("Please enter your username : ", "username");
+correctUsername = prompt("Please retype your username : ", "username");
