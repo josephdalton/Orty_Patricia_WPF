@@ -24,4 +24,7 @@ discountPrice = "$7.00";
 
 movieGoerAge = prompt("To determine your ticket price,\nplease enter your age.", 55);
 timeOfMovie = prompt("Please enter the time of your movie.\n(Just enter in the hour)", 3);
-amPM = prompt("Is that AM or PM?","PM")''
+amPM = prompt("Is that AM or PM?","PM");
+
+//Initial if statement to produce a console.log of "The ticket price is $7.00" if age of movie goer is 55 or over or under 10
+
