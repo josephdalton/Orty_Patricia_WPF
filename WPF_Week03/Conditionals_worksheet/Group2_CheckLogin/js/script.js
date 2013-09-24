@@ -26,6 +26,7 @@ correctPassword = prompt("Please retype your password : ", "password");
 //Test of intial if statement sucessful
 //adding else statement to if in order to produce a console.log printout Password does not match our records.
 //Test of else statement sucessful. Note that currently console.log does not reflect the possibility of a wrong username causing the else result.
+//adding else if statement to if in order to produce a console.log printout: User not found. Tyr again. Thus addressing what to do if the username and correctUsername do not match.
 
 
 
