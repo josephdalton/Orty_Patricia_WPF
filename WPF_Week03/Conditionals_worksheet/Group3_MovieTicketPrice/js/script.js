@@ -13,4 +13,5 @@ var movieGoerAge;
 var timeOfMovie;
 var amPM;
 var ticketPrice;
+var discountPrice;
 
