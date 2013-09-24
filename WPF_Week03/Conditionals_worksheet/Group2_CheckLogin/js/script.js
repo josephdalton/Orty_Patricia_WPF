@@ -20,3 +20,5 @@ var correctPassword;
 username = prompt("Please enter your username : ", "username");
 correctUsername = prompt("Please retype your username : ", "username");
 password = prompt("Please enter your password :", "password");
+correctPassword = prompt("Please retype your password : ", "password");
+
