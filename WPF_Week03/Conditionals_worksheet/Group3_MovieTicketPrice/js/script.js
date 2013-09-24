@@ -10,4 +10,5 @@ if they are 55 and over or under 10 OR watching a movie between 3 and 5 PM*/
 //Declaration of variables necessary in expression.
 
 var movieGoerAge;
+var timeOfMovie;
 
