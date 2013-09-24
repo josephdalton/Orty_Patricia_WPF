@@ -11,3 +11,4 @@
 
 //Declaration of variables necesary for if else statement and console.log printouts.
 var username;
+var password;
