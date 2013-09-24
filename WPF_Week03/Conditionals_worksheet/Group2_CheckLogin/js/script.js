@@ -13,3 +13,4 @@
 var username;
 var password;
 var correctUsername;
+var correctPassword;
