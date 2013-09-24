@@ -4,5 +4,9 @@
 
 // Conditionals Worksheet - Group 1 : Last Chance for Gas!
 
+/*Expression goal : to determine if a driver has enough gas to make it
+the next gas station or if they should stop and refill now*/
+
+
 
 
