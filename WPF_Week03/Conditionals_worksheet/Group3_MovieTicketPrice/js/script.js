@@ -28,9 +28,12 @@ amPM = prompt("Is that AM or PM?","PM");
 
 //Initial if statement to produce a console.log of "The ticket price is $7.00" if age of movie goer is 55 or over or under 10
 //addition of else statement to produce console.log of "The ticket price is $12.00"
+//addition of else if statement to produce a console.log printout of "The ticket price is $7.00 if the movie goer is watching a movie between 3 and 5 PM"
 
 if((movieGoerAge >= 55) || (movieGoerAge < 10)){
 	console.log("The ticket price is " + discountPrice);
+}else if ((timeOfMovie >= 3 && timeOfMovie <=5) && toUpperCase(amPM) === "PM");
+
 }else{
 	console.log("The ticket price is " + ticketPrice);
 }
