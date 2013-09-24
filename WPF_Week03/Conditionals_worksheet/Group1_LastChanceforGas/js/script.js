@@ -29,4 +29,3 @@ gasGadgePercentage = prompt("What does your gas gadge read? What is it's percent
 
 var fullTankMiles = carMPG * gasTankCapacity;
 
-console.log(fullTankMiles);
