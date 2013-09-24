@@ -33,3 +33,5 @@ var fullTankMiles = carMPG * gasTankCapacity;
 // by minusing fullTankMiles from fullTankMiles that have been multipled by (gasTankGadgePercentage divided by 100)
 
 var currentTankMiles = fullTankMiles - (gasTankGadgePercentage / 100) * fullTankMiles;
+
+console.log(currentTankMiles);
