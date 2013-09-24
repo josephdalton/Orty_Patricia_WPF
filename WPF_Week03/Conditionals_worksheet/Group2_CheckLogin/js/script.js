@@ -14,3 +14,5 @@ var username;
 var password;
 var correctUsername;
 var correctPassword;
+
+//Definition of variables as prompts to gain information for if else statement.
