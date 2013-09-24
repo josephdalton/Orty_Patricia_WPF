@@ -38,3 +38,8 @@ var currentTankMiles = fullTankMiles - (100 - gasGadgePercentage) / 100 * fullTa
 // if currentTankMiles is greater than or equal to nextStation then print yes, you can make it without stopping for gas! 
 // else "You only have X gallons of gas in your tank, better get gas now while you can!"
 
+if(currentTankMiles >= nextStation){
+	console.log("Yes, you can make it without stopping for gas!");
+}else{
+	console.log("You only have " + currentGallons + " gallons of gas in your tank, better get gas now while you can!");
+}
