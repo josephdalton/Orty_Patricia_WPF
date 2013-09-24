@@ -22,4 +22,5 @@ carMPG = prompt("What is your vehicles MPG?", 20);
 
 gasTankCapacity = prompt("How many gallons of fuel can your gas tank hold?", 10);
 
+gasGadgePercentage = prompt("What does your gas gadge read? What is it's percentage full?", 50);
 
