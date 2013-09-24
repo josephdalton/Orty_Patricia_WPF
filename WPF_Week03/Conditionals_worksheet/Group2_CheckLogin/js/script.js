@@ -25,6 +25,9 @@ correctPassword = prompt("Please retype your password : ", "password");
 //Setting up if statement to console.log Welcome, username! if username matches correct username and password matches correct password.
 //Test of intial if statement sucessful
 //adding else statement to if in order to produce a console.log printout Password does not match our records.
+//Test of else statement sucessful. Note that currently console.log does not reflect the possibility of a wrong username causing the else result.
+
+
 
 if(username === correctUsername && password === correctPassword){
 	console.log("Welcome, " + username + "!");
