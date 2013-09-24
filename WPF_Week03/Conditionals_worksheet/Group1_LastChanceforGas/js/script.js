@@ -18,4 +18,6 @@ var nextStation;
 
 nextStation = prompt("Can you make it to the next gas station\nOR should you stop NOW and refill?\n\nTo begin calculation please provide distance\nin miles to the next gas station...", 200);
 
+carMPG = prompt("What is your vehicles MPG?", 20);
+
 
