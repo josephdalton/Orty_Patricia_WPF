@@ -28,4 +28,6 @@ correctPassword = prompt("Please retype your password : ", "password");
 
 if(username === correctUsername && password === correctPassword){
 	console.log("Welcome, " + username + "!");
+}else{
+	console.log("Password does not match our records");
 }
