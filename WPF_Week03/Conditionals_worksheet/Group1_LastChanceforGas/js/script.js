@@ -9,6 +9,7 @@ the next gas station or if they should stop and refill now*/
 
 //declaration of variables to be used in this conditional expression
 var carMPG;
+var gasGadgePercentage;
 
 
 
