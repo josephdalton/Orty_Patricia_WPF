@@ -15,3 +15,4 @@ var amPM;
 var ticketPrice;
 var discountPrice;
 
+//Definition of ticket price variables.
