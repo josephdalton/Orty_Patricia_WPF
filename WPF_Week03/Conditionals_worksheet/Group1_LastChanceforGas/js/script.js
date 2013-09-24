@@ -11,6 +11,7 @@ the next gas station or if they should stop and refill now*/
 var carMPG;
 var gasGadgePercentage;
 var gasTankCapacity;
+var nextStation;
 
 
 
