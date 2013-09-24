@@ -7,6 +7,7 @@
 /*Expression goal : to determine if a driver has enough gas to make it
 the next gas station or if they should stop and refill now*/
 
+//declaration of variables to be used in this conditional expression
 
 
 
