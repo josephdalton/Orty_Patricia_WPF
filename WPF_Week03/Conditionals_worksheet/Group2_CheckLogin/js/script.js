@@ -32,6 +32,10 @@ correctPassword = prompt("Please retype your password : ", "password");
 
 if(username === correctUsername && password === correctPassword){
 	console.log("Welcome, " + username + "!");
+}else if( !(username === correctUsername) ){
+	console.log("User not found. Try again.");
 }else{
 	console.log("Password does not match our records");
 }
+
+//testing sucessful for if else if else statement.
