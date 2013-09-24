@@ -23,6 +23,9 @@ password = prompt("Please enter your password :", "password");
 correctPassword = prompt("Please retype your password : ", "password");
 
 //Setting up if statement to console.log Welcome, username! if username matches correct username and password matches correct password.
+//Test of intial if statement sucessful
+
+
 if(username === correctUsername && password === correctPassword){
 	console.log("Welcome, " + username + "!");
 }
