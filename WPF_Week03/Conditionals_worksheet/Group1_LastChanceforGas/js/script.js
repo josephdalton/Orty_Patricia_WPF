@@ -14,4 +14,7 @@ var gasTankCapacity;
 var nextStation;
 
 
+//definition of variables with prompts to collect data for calculation.
+
+
 
