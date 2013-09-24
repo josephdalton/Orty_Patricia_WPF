@@ -10,3 +10,4 @@
 //if password is incorrect then console.log Password does not match our records.
 
 //Declaration of variables necesary for if else statement and console.log printouts.
+var username;
