@@ -20,4 +20,6 @@ nextStation = prompt("Can you make it to the next gas station\nOR should you sto
 
 carMPG = prompt("What is your vehicles MPG?", 20);
 
+gasTankCapacity = prompt("How many gallons of fuel can your gas tank hold?", 10);
+
 
