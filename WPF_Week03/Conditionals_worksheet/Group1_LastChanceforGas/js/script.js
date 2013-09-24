@@ -48,3 +48,5 @@ if(currentTankMiles >= nextStation){
 }else{
 	console.log("You only have " + currentGallons + " gallons of gas in your tank, better get gas now while you can!");
 }
+
+//texting successful of calculations and if statement console.log readouts.
