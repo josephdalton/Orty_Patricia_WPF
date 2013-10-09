@@ -5,3 +5,5 @@
 // Assignment : Expressions - Personal
 
 //Goal: To calculate how many week's til a person's running shoes should be replaced and an estimate of how much a year they will spend on new shoes.
+
+//Declaration of Variables for use in prompts for information necessary for the calculations.
