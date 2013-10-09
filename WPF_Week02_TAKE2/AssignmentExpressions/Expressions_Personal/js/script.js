@@ -12,3 +12,5 @@ var milesRun;
 var runsAWeek;
 var howManyTimesWeek;
 var costOfShoes;
+
+//Alert explaining following prompts for information
