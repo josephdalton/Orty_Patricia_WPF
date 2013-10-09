@@ -11,3 +11,4 @@ var typeOfShoes;
 var milesRun;
 var runsAWeek;
 var howManyTimesWeek;
+var costOfShoes;
