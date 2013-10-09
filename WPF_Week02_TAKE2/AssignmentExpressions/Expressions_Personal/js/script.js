@@ -8,3 +8,4 @@
 
 //Declaration of Variables for use in prompts for information necessary for the calculations.
 var typeOfShoes;
+var milesRun;
