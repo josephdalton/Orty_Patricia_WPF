@@ -18,4 +18,4 @@ alert("It's recommened to replace running shoes every 300 miles. \nPlease answer
 //Defining above variables as prompts to collect information for calculations.
 typeOfShoes = prompt("What brand of running shoe do you use?");
 costOfShoes = prompt("How much does a pair of " + typeOfShoes + " cost?");
-runsAWeek = prompt("What is the number of miles you run, when you run, on average?");
+milesRun = prompt("What is the number of miles you run, when you run, on average?");
