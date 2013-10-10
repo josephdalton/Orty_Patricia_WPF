@@ -28,3 +28,5 @@ var runRoutine = [milesRun, runsAWeek];
 parseInt will be added as for the purposes of the estimate I want to deal with only whole numbers.*/
 var totalMilesYear = parseInt(runRoutine [0]) * parseInt(runRoutine [1]) * 52;
 
+//Calculation to determine how many shoes would need to be purchased in a year by dividing 300 by totalMilesYear.
+var shoesYear = 300 / totalMilesYear;
