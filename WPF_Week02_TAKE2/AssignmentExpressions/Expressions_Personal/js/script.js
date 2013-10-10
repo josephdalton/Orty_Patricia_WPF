@@ -20,3 +20,8 @@ typeOfShoes = prompt("What brand of running shoe do you use?");
 costOfShoes = prompt("How much does a pair of " + typeOfShoes + " cost?");
 milesRun = prompt("What is the number of miles you run, when you run, on average?");
 runsAWeek = prompt("How many times do you run a week?");
+
+//Placing run information in an array
+var runRoutine = [milesRun, runsAWeek];
+
+
