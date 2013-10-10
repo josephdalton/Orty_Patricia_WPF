@@ -26,3 +26,5 @@ var clapStats = [howOld, whatHour, howManyPeople];
 var neededClaps = (225000 - clapStats [0]) * clapStats [1] / clapStats [2];
 
 //console.log to show calculation result
+
+console.log("You and the " + howManyPeople + " people with you will need to clap " + neededClaps + " times to save your fallen fairy.");
