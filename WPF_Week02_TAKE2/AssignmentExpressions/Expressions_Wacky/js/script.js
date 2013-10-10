@@ -25,3 +25,4 @@ var clapStats = [howOld, whatHour, howManyPeople];
 //Calculating how many claps necessary by taking a base clap amount of 225,000 and minusing it by howOld then multiplying the result by whatHour and divides by howManyPeople.
 var neededClaps = (225000 - clapStats [0]) * clapStats [1] / clapStats [2];
 
+//console.log to show calculation result
