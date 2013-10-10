@@ -29,13 +29,16 @@ parseInt will be added as for the purposes of the estimate I want to deal with o
 var totalMilesYear = parseInt(runRoutine [0]) * parseInt(runRoutine [1]) * 52;
 
 //Calculation to determine how many shoes would need to be purchased in a year by dividing 300 by totalMilesYear.
-var shoesYear = 300 / totalMilesYear;
+var shoesYear = totalMilesYear / 300;
 
 //adding parseInt to shoesYear as this is an estimate and you can't buy just one shoe or a quarter of a shoe.
 shoesYear = parseInt(shoesYear);
 
 //Calculation to determine how many weeks til needed show purchase by dividing shoesYear by 52.
-var howLongToBuy = shoesYear / 52;
+var howLongToBuy = 52 / shoesYear;
 
 //Calculation to determine how much money will be spent on shoes in a year by multiplying costOfShoes by shoesYear.
 var shoeCostYear = costOfShoes * shoesYear;
+
+//console.log to display calculation results
+console.log("You will have to replace your " + typeOfShoes + " shoes in " + howLongToBuy + " weeks. You will run an estimated total of " + totalMilesYear + " miles a year which will have you replacing your running shoes " + shoesYear + " times a year for an estimated amount of $" + shoeCostYear + " a year.")
