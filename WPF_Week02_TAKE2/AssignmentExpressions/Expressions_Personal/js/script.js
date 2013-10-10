@@ -24,4 +24,7 @@ runsAWeek = prompt("How many times do you run a week?");
 //Placing run information in an array
 var runRoutine = [milesRun, runsAWeek];
 
+/* Calculation to determine miles run a year multiplying milesRun by runsAWeek by 52 (weeks in a year). 
+parseInt will be added as for the purposes of the estimate I want to deal with only whole numbers.*/
+var totalMilesYear = parseInt(runRoutine [0]) * parseInt(runRoutine [1]) * 52;
 
