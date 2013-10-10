@@ -10,3 +10,5 @@
 var howOld;
 var whatHour;
 var howManyPeople;
+
+//Alert message to explain the prompts to collect information for the calculation.
