@@ -33,3 +33,6 @@ var shoesYear = 300 / totalMilesYear;
 
 //adding parseInt to shoesYear as this is an estimate and you can't buy just one shoe or a quarter of a shoe.
 shoesYear = parseInt(shoesYear);
+
+//Calculation to determine how many weeks til needed show purchase by dividing shoesYear by 52.
+var howLongToBuy = shoesYear / 52;
