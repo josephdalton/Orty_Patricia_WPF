@@ -9,3 +9,4 @@
 //Declaration of variables used in calculation
 var howOld;
 var whatHour;
+var howManyPeople;
