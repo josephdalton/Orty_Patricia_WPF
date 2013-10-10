@@ -30,3 +30,6 @@ var totalMilesYear = parseInt(runRoutine [0]) * parseInt(runRoutine [1]) * 52;
 
 //Calculation to determine how many shoes would need to be purchased in a year by dividing 300 by totalMilesYear.
 var shoesYear = 300 / totalMilesYear;
+
+//adding parseInt to shoesYear as this is an estimate and you can't buy just one shoe or a quarter of a shoe.
+shoesYear = parseInt(shoesYear);
