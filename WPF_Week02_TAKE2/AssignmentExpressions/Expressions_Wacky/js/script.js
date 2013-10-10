@@ -20,3 +20,4 @@ whatHour = prompt("What hour is it currently?\n(Choose a number between 1 & 24)"
 howManyPeople = prompt ("How many people are you going to get clapping with you?");
 
 //Placing calculation data in an array
+var clapStats = [howOld, whatHour, howManyPeople];
