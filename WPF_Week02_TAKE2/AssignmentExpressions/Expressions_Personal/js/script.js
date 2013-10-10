@@ -37,6 +37,9 @@ shoesYear = parseInt(shoesYear);
 //Calculation to determine how many weeks til needed show purchase by dividing shoesYear by 52.
 var howLongToBuy = 52 / shoesYear;
 
+//adding parseInt to howLongToBuy as this is an estimate and there is no need for decimals in the answer.
+howLongToBuy = parseInt(howLongToBuy);
+
 //Calculation to determine how much money will be spent on shoes in a year by multiplying costOfShoes by shoesYear.
 var shoeCostYear = costOfShoes * shoesYear;
 
