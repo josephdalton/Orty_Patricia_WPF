@@ -23,5 +23,6 @@ hoursWorked = prompt("How many hours did it take to complete the project?");
 var projectInfo = [supplyCost, hourlyRate, hoursWorked];
 
 //Calculation to determine total charge for project by multiplying hourlyRate by hoursWorked.
+var projectCustPmnt = projectInfo [1] * projectInfo [2];
 
 
