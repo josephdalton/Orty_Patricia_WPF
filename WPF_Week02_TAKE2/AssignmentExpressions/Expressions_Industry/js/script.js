@@ -3,3 +3,6 @@
 // 10/10/13
 
 // Assignment : Expressions - Industry
+
+//Goal of the calculation is to show the amount of profit made by a project.
+
