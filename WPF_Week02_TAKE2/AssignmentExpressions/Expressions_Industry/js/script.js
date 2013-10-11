@@ -6,3 +6,4 @@
 
 //Goal of the calculation is to show the amount of profit made by a project.
 
+//Declaration of variables for use in calculation.
