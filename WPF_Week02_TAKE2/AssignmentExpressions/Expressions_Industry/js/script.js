@@ -20,5 +20,7 @@ hourlyRate = prompt("What is your hourly rate charge?");
 hoursWorked = prompt("How many hours did it take to complete the project?");
 
 //Storing all data from prompts for calculation in an array.
-var projectInfo = [supplyCost]
+var projectInfo = [supplyCost, hourlyRate, hoursWorked];
+
+
 
