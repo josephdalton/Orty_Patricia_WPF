@@ -29,6 +29,6 @@ var projectCustPmnt = projectInfo [1] * projectInfo [2];
 var projectProfit = projectCustPmnt - projectInfo [0];
 
 //Console.log to print calculation results.
-
+console.log("The profit of your current project is: " + projectProfit + ".");
 
 
