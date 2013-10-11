@@ -13,3 +13,5 @@ var hoursWorked;
 
 //Alert to explain upcoming prompts for information.
 alert("Please answer the following questions to determing the profit of your last project");
+
+//Definition of variables with prompts to gather information for calculation.
