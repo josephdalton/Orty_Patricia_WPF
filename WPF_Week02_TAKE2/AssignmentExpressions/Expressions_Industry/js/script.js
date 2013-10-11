@@ -11,4 +11,4 @@ var supplyCost;
 var hourlyRate;
 var hoursWorked;
 
-//Array to explain upcoming prompts for information.
+//Alert to explain upcoming prompts for information.
