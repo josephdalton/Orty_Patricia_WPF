@@ -25,4 +25,6 @@ var projectInfo = [supplyCost, hourlyRate, hoursWorked];
 //Calculation to determine total charge for project by multiplying hourlyRate by hoursWorked.
 var projectCustPmnt = projectInfo [1] * projectInfo [2];
 
+//Calcluation to determine project's profit by minusing supplyCost from projectCustPmnt.
+
 
