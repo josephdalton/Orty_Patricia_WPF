@@ -18,3 +18,6 @@ alert("Please answer the following questions to determing the profit of your las
 supplyCosts = prompt("What is the total cost of project supplies?");
 hourlyRate = prompt("What is your hourly rate charge?");
 hoursWorked = prompt("How many hours did it take to complete the project?");
+
+//Storing all data from prompts for calculation in an array.
+
