@@ -15,9 +15,10 @@ var hoursWorked;
 alert("Please answer the following questions to determing the profit of your last project");
 
 //Definition of variables with prompts to gather information for calculation.
-supplyCosts = prompt("What is the total cost of project supplies?");
+supplyCost = prompt("What is the total cost of project supplies?");
 hourlyRate = prompt("What is your hourly rate charge?");
 hoursWorked = prompt("How many hours did it take to complete the project?");
 
 //Storing all data from prompts for calculation in an array.
+var projectInfo = [supplyCost]
 
