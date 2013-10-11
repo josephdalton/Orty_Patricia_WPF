@@ -9,3 +9,4 @@
 //Declaration of variables for use in calculation.
 var supplyCost;
 var hourlyRate;
+var hoursWorked;
