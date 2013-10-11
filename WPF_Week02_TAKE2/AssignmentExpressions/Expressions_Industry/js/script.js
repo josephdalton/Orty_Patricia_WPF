@@ -16,3 +16,4 @@ alert("Please answer the following questions to determing the profit of your las
 
 //Definition of variables with prompts to gather information for calculation.
 supplyCosts = prompt("What is the total cost of project supplies?");
+hourlyRate = prompt("What is your hourly rate charge?");
