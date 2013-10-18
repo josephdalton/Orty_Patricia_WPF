@@ -28,3 +28,5 @@ gradeDriversED = parseInt(gradeDriversED);
 //Addition of ParseFloat to hrsDriven as a hold number may not be given as an answer
 //and I want the information to be treated as a number and decimal points recognized.
 hrsDriven = parseFloat(hrsDriven);
+
+//Usage of Ternary to determine if driver can or can not schedule a road test.
