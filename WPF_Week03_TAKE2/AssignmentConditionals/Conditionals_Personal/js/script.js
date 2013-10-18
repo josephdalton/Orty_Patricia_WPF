@@ -33,3 +33,4 @@ hrsDriven = parseFloat(hrsDriven);
 var overallResult = (ageDriver >= 17 && (hrsDriven >= 72 || gradeDriversED <= C)) ? "You meet the criteria to schedule your road test. GOOD LUCK!" : "You do not meet the critera to schedule your road test. Reasons are listed below: ";
 
 //Console.log to display overallResult variable information
+console.log(overallResult);
