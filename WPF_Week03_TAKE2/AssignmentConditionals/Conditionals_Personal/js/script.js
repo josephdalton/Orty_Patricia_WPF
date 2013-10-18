@@ -24,3 +24,6 @@ gradeDriversED = prompt("What LETTER grade did you get in Driver's Ed class?");
 //Addition of ParseInt to ageDriver and gradeDriversED so that input data is treated as a whole number.
 ageDriver = parseInt(ageDriver);
 gradeDriversED = parseInt(gradeDriversED);
+
+//Addition of ParseFloat to hrsDriven as a hold number may not be given as an answer
+//and I want the information to be treated as a number and decimal points recognized.
