@@ -3,3 +3,5 @@
 // 10/17/13
 
 // Assignment : Conditionals - Wacky
+
+//Goal: Determine if your dog will chew your shoes while you are out.
