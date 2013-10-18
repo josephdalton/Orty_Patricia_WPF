@@ -10,3 +10,5 @@
 var shoesOut;
 var hrsAlone;
 var scoldedHrsAgo;
+
+//Explanation of following prompts with alert
