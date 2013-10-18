@@ -21,6 +21,10 @@ childGuests = prompt("How many of the attendees will be children under the age o
 numberGuests = parseInt(numberGuests);
 childGuests = parseInt(childGuests);
 
+// JMD You can also add the following to check to see if the values are null
+// if (numberGuests==null){alert('No value for the number of guests was added');} else { numberGuest=parseInt(numberGuests);}
+
+
 //calculation to determine how many adult guests by minusing numberGuests by childGuests.
 var totalAdults = numberGuests - childGuests;
 
