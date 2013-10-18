@@ -31,4 +31,6 @@ scoldedHrsAgo = scoldedHrsAgo.toUpperCase();
 
 if (shoesOut === "YES" || shoesOut === "Y" && hrsAlone > 6){
 	console.log("Currently you're being missed and your puppy is licking your shoe for comfort. Better hurry home or it might become a snack!");
+} else if (shoesOut === "YES" || shoesOut === "Y" && scoldedHrsAgo === "YES" || scoldedHrsAgo === "Y"){
+	console.log("Shouldn't have gone out so soon after scolding your pooch for peeing on the carpet. Right now your shoes are a great avenue for venting the upset. Get home quickly before the shoe is finished and your pup sets their sites on something else.");
 }
