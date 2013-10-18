@@ -22,3 +22,4 @@ numberGuests = parseInt(numberGuests);
 childGuests = parseInt(childGuests);
 
 //calculation to determine how many adult guests by minusing numberGuests by childGuests.
+var totalAdults = numberGuests - childGuests;
