@@ -23,3 +23,5 @@ scoldedHrsAgo = prompt("Have you had to scold your puppy within the last 24 hour
 hrsAlone = parseInt(hrsAlone);
 
 //Addition of toUppercase to outputs of shoesOut and scholdedHrsAgo to ensure data is read as all upperCase to work with conditional.
+
+var shoesOut = shoesOut.toUpperCase();
