@@ -9,3 +9,4 @@
 //Declaration of variables to be used to hold user information.
 var shoesOut;
 var hrsAlone;
+var scoldedHrsAgo;
