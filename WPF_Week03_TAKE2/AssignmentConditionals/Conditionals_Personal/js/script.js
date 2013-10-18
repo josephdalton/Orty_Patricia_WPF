@@ -22,3 +22,4 @@ hrsDriven = prompt("What is the total number of hours you have driven with a lic
 gradeDriversED = prompt("What LETTER grade did you get in Driver's Ed class?");
 
 //Addition of ParseInt to ageDriver and gradeDriversEd so that input data is treated as a whole number.
+ageDriver = parseInt(ageDriver);
