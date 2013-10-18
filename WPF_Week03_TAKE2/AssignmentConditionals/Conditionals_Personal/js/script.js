@@ -36,3 +36,11 @@ var overallResult = (ageDriver >= 17 && (hrsDriven >= 72 || gradeDriversED >= 70
 console.log(overallResult);
 
 //If statements to display criteria not met if Ternary is false
+
+if (ageDriver < 17){
+	console.log("- You are not old enough to take your road test.");
+}
+
+if (hrsDriven < 72 && gradeDriversED < 70){
+	console.log("- You need either:\n \t- Total hours of driving of 72 hrs.\n \t- Grade of 70 or better in drivers Ed class.");
+}
