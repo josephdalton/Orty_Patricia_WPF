@@ -16,3 +16,4 @@ alert("Our furry friends can get very creative with how they occupy themselves w
 
 //Definition of variables with prompts
 shoesOut = prompt("Did you leave your shoes out where puppy can reach? Yes or No?");
+hrsAlone = prompt("How many hours has your fur-baby been left alone?");
