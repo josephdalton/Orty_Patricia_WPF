@@ -30,3 +30,5 @@ var turkeyLbsAdult = totalAdults * 1.2;
 //calculation to determine how much turkey child guests will consume by multiplying childGuests by .75 lbs.
 var turkeyLbsChildren = childGuests * .75;
 
+//calculation to determine total lbs. of turkey to purchase by adding turkeyLbsAdult b& turkeyLbsChildren
+
