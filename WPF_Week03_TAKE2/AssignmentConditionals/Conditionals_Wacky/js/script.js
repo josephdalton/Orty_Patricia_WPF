@@ -27,3 +27,4 @@ hrsAlone = parseInt(hrsAlone);
 shoesOut = shoesOut.toUpperCase();
 scoldedHrsAgo = scoldedHrsAgo.toUpperCase();
 
+//Use of If statement to display results based on varying inputs
