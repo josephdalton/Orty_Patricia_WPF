@@ -16,3 +16,4 @@ var gradeDriversED;
 //Setting up an Alert to explain the following prompts to gain information for the calculation.
 alert("Want to find out if you can schedule your road test?\nThen answer the next few questions to find out today!");
 
+//Defining variables as prompts to gain input for calculation
