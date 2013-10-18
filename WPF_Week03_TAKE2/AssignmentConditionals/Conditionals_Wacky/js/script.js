@@ -28,3 +28,7 @@ shoesOut = shoesOut.toUpperCase();
 scoldedHrsAgo = scoldedHrsAgo.toUpperCase();
 
 //Use of If statement to display results based on varying inputs
+
+if (shoesOut === "YES" || shoesOut === "Y" && hrsAlone > 6){
+	console.log("Currently you're being missed and your puppy is licking your shoe for comfort. Better hurry home or it might become a snack!");
+}
