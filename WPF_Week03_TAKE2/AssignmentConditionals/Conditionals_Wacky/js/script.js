@@ -20,3 +20,4 @@ hrsAlone = prompt("How many hours has your fur-baby been left alone?");
 scoldedHrsAgo = prompt("Have you had to scold your puppy within the last 24 hours? Yes or No?");
 
 //Additon of parseInt to variable hrsAlone as partial hours aren't necessary for statement and it will also ensure that data will be treated as a number.
+hrsAlone = parseInt(hrsAlone);
