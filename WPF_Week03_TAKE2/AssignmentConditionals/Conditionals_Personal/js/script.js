@@ -34,3 +34,5 @@ var overallResult = (ageDriver >= 17 && (hrsDriven >= 72 || gradeDriversED >= 70
 
 //Console.log to display overallResult variable information
 console.log(overallResult);
+
+//If statements to display criteria not met if Ternary is false
