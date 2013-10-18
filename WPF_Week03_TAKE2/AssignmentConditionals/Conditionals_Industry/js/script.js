@@ -24,6 +24,7 @@ childGuests = parseInt(childGuests);
 //calculation to determine how many adult guests by minusing numberGuests by childGuests.
 var totalAdults = numberGuests - childGuests;
 
-//calculation to determing how much turkey adults will consume by taking totalAdults and multiplying it by 1.2 lbs
+//calculation to determine how much turkey adults will consume by taking totalAdults and multiplying it by 1.2 lbs
 var turkeyLbsAdult = totalAdults * 1.2;
 
+//calculation to determine how much turkey child guests will consume by multiplying childGuests by .75 lbs.
