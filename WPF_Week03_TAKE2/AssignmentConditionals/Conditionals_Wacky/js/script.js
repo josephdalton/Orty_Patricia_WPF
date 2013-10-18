@@ -37,4 +37,6 @@ if (shoesOut === "YES" || shoesOut === "Y" && hrsAlone > 6){
 	console.log("Shouldn't have gone out so soon after scolding your pooch for peeing on the carpet. Right now your shoes are a great avenue for venting the upset. Get home quickly before the shoe is finished and your pup sets their sites on something else.");
 } else if (shoesOut === "NO" || shoesOut === "N" && ((scoldedHrsAgo === "YES" || scoldedHrsAgo === "Y") || hrsAlone > 6)){
 	console.log("Your shoes may be safe but many other objects at home aren't. If I where you I'd check the carpet and/or your couch when you get home.");
+} else {
+	console.log("The day is a good one. Your puppy is happy and you are home in enough time to keep spirits high and shoes safe!");
 }
