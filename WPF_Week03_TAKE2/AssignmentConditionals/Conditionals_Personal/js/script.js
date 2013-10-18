@@ -12,3 +12,5 @@ or had gotten a C or better in Drivers Ed */
 var ageDriver;
 var hrsDriven;
 var gradeDriversED;
+
+//Setting up an Alert to explain the following prompts to gain information for the calculation.
