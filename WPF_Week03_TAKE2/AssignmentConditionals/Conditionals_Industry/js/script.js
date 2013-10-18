@@ -6,3 +6,4 @@
 
 // Goal: Calculate lbs. of Turkey to purchase for company holiday dinner. 
 
+//Declaration of variables that are going to be used to hold input information for calculation.
