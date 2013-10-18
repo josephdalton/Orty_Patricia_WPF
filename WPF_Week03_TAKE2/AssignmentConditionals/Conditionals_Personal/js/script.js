@@ -17,3 +17,4 @@ var gradeDriversED;
 alert("Want to find out if you can schedule your road test?\nThen answer the next few questions to find out today!");
 
 //Defining variables as prompts to gain input for calculation
+ageDriver = prompt("How old are you?");
