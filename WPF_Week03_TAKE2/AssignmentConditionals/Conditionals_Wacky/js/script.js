@@ -15,3 +15,4 @@ var scoldedHrsAgo;
 alert("Our furry friends can get very creative with how they occupy themselves when we are away.\nThe following questions are to determine if your puppy is going to leave your shoes alone while you are out and about.");
 
 //Definition of variables with prompts
+shoesOut = prompt("Did you leave your shoes out where puppy can reach? Yes or No?");
