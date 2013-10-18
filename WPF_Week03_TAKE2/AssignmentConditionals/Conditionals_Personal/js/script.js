@@ -10,3 +10,5 @@ or had gotten a C or better in Drivers Ed */
 
 //Declaration of variables used to gain information for calculation.
 var ageDriver;
+var hrsDriven;
+var gradeDriversED;
