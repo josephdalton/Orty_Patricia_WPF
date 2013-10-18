@@ -15,3 +15,4 @@ alert("Your company put you in charge of ordering food for the holiday dinner.\n
 
 //Declaration of variables as prompts to gather information for calculation.
 numberGuests = prompt("How many guests will be in attendance?");
+childGuests = prompt("How many of the attendees will be children under the age of 6?");
