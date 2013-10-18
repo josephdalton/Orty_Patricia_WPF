@@ -30,3 +30,4 @@ gradeDriversED = parseInt(gradeDriversED);
 hrsDriven = parseFloat(hrsDriven);
 
 //Usage of Ternary to determine if driver can or can not schedule a road test.
+var overallResult = (ageDriver >= 17 && (hrsDriven >= 72 || gradeDriversED <= C)) ? "You meet the criteria to schedule your road test. GOOD LUCK!" : "You do not meet the critera to schedule your road test. Reasons are listed below: ";
