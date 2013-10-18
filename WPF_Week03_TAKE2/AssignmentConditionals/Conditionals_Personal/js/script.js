@@ -8,3 +8,4 @@
 the driver is old enough & either has enough hours of driving with a licensed driver (72 hrs.) 
 or had gotten a C or better in Drivers Ed */
 
+//Declaration of variables used to gain information for calculation.
