@@ -7,3 +7,4 @@
 //Goal: Determine if your dog will chew your shoes while you are out.
 
 //Declaration of variables to be used to hold user information.
+var shoesOut;
