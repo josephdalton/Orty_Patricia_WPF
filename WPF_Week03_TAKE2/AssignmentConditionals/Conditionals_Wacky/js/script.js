@@ -22,6 +22,8 @@ scoldedHrsAgo = prompt("Have you had to scold your puppy within the last 24 hour
 //Additon of parseInt to variable hrsAlone as partial hours aren't necessary for statement and it will also ensure that data will be treated as a number.
 hrsAlone = parseInt(hrsAlone);
 
-//Addition of toUppercase to outputs of shoesOut and scholdedHrsAgo to ensure data is read as all upperCase to work with conditional.
+//Addition of toUppercase to outputs of shoesOut and scoldedHrsAgo to ensure data is read as all upperCase to work with conditional.
 
 shoesOut = shoesOut.toUpperCase();
+scoldedHrsAgo = scoldedHrsAgo.toUpperCase();
+
