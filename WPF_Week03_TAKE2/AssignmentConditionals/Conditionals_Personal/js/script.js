@@ -20,3 +20,5 @@ alert("Want to find out if you can schedule your road test?\nThen answer the nex
 ageDriver = prompt("How old are you?");
 hrsDriven = prompt("What is the total number of hours you have driven with a licensed driver in your vehicle?");
 gradeDriversED = prompt("What LETTER grade did you get in Driver's Ed class?");
+
+//Addition of ParseInt to ageDriver and gradeDriversEd so that input data is treated as a whole number.
