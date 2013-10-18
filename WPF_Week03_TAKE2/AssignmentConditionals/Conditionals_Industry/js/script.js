@@ -34,5 +34,8 @@ var turkeyLbsChildren = childGuests * .75;
 var totalTurkey = turkeyLbsAdult + turkeyLbsChildren;
 
 //if statement to console.log information of calculations.
-
-
+if (childGuests === 0){
+	console.log("The total amount of Turkey you need to purchase is " + turkeyLbsAdult + " lbs.");
+}else{
+	console.log("The total amount of Turkey you need to purchase is " + totalTurkey + " lbs.");
+}
