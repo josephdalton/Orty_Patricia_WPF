@@ -19,3 +19,4 @@ childGuests = prompt("How many of the attendees will be children under the age o
 
 //addition of parseInt to varables as half people can't exist and they aren't needed for calculation. Will also make sure information is treated as a number.
 numberGuests = parseInt(numberGuests);
+childGuests = parseInt(childGuests);
