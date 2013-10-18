@@ -19,3 +19,4 @@ alert("Want to find out if you can schedule your road test?\nThen answer the nex
 //Defining variables as prompts to gain input for calculation
 ageDriver = prompt("How old are you?");
 hrsDriven = prompt("What is the total number of hours you have driven with a licensed driver in your vehicle?");
+gradeDriversED = prompt("What LETTER grade did you get in Driver's Ed class?");
