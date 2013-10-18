@@ -24,4 +24,4 @@ hrsAlone = parseInt(hrsAlone);
 
 //Addition of toUppercase to outputs of shoesOut and scholdedHrsAgo to ensure data is read as all upperCase to work with conditional.
 
-var shoesOut = shoesOut.toUpperCase();
+shoesOut = shoesOut.toUpperCase();
